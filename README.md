@@ -1,9 +1,9 @@
-### Portafolio de Angela Suzette Gomez Zavala
+### Clon Pinteres
 
 
 Proyecto creado durante el bootcamp de tecnolochicas PRO, fue para aprender lo basico sobre HTML y CSS😼
 
-#### Podrás encontrarlo aquí [Portafolio](https://Cellyta.github.io/).
+#### Podrás encontrarlo aquí [Portafolio](https://pinterestclon-seven.vercel.app//).
 
 ### Tecnologias
 
