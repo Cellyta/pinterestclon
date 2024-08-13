@@ -3,7 +3,7 @@
 
 Proyecto creado durante el bootcamp de tecnolochicas PRO, fue para aprender lo basico sobre HTML y CSS😼
 
-#### Podrás encontrarlo aquí [Portafolio](https://pinterestclon-seven.vercel.app//).
+#### Podrás encontrarlo aquí [Clon Pinterest](https://pinterestclon-seven.vercel.app//).
 
 ### Tecnologias
 
