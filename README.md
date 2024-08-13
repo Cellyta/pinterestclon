@@ -1,4 +1,5 @@
-### Clon Pinteres
+### Clon Pinterest
+
 
 
 Proyecto creado durante el bootcamp de tecnolochicas PRO, fue para aprender lo basico sobre HTML y CSS😼
